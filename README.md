@@ -13,3 +13,5 @@ Rise Of Tusculum Rpgmv
 - https://www.rpgmakerweb.com/product-support
 - https://www.rpgmakerweb.com/faq
 - https://www.rpgmakerweb.com/faq
+- https://kanbanize.com/kanban-resources/getting-started/what-is-kanban
+- https://docs.github.com/en
