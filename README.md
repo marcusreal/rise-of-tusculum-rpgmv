@@ -7,9 +7,13 @@ Rise Of Tusculum Rpgmv
 - run the config.bat scritp as admin to set project properties
 
 #NOTE
-- See "Help" folder to understand RPG Maker
+- See "Help" folder in Steam\steamapps\common\RPG Maker MV\Help to understand RPG Maker
 
-#LINK
+#LINKS
+- https://meet.google.com/mty-iibj-hdb
+- https://trello.com/b/pyPaDqAB/sezione-informatica
+
+#RESOURCE LINKS
 - https://www.rpgmakerweb.com/product-support
 - https://www.rpgmakerweb.com/faq
 - https://www.rpgmakerweb.com/faq
